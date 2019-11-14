@@ -1,0 +1,16 @@
+#Jupyter NOtebook Checkpoints
+.ipynb_checkpoints
+
+#Original Notebook -
+#I made serious formatting changes
+#and am only retaining this for reference
+Melbourne_Orig.ipynb
+
+#Python file used to get requirements
+output.py
+
+#The data files are too large, so I won't upload them
+#There are links to the data in both the readme
+#and the main notebook
+Data/
+Data_out/
