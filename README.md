@@ -1,8 +1,11 @@
 # Melbourne Airbnb Listings
 This repo chronicles my cleaning and analysis of the Melbourne listings data collected by Inside Airbnb in order to better understand the impact of Airbnb listings on neighbourhoods and cities. The data contains "public" information posted on the Airbnb site, including, but not limited to, pricing information, neighbourhood reviews, listing specifications, and listing locations.
 
+## The Data
+The data used in thie project was acquired from [kaggle](https://www.kaggle.com/tylerx/melbourne-airbnb-open-data) and can also be downloaded from the source on [Inside Airbnb's website](http://insideairbnb.com/get-the-data.html).
+
 ## A General Overview
-Using the data and working in Jupyter Notebook, I performed what cleaning was necessary for the data, and conducted/created exploratory analysis and visualizations. The initial data review/cleaning and general exploratory analysis can be found in `Melbourne_Airbnb-Exploratory_Analysis.ipynb`. Cleaned data was saved from this notebook into the `"Data_out"` folder.  
+Using the data and working in Jupyter Notebook, I performed what cleaning was necessary for the data, and conducted/created exploratory analysis and visualizations. The initial data review/cleaning and general exploratory analysis can be found in `Melbourne_Airbnb-Exploratory_Analysis.ipynb`. Cleaned data was saved from this notebook into the `"Data_out"` folder.
 Additional and more in-depth analysis and visualizations can be found in `Melbourne-A_Deeper_Look.ipynb`.
 
 In conducting more expansive exploratory analysis, I created word clouds for the various "review" features, including the neighbourhood overview feature, such as:
