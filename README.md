@@ -10,9 +10,9 @@ Additional and more in-depth analysis and visualizations can be found in `Melbou
 
 In conducting more expansive exploratory analysis, I created word clouds for the various "review" features, including the neighbourhood overview feature, such as:
 
-![alt text](/Img_static/Neigh_Over/Round_2/SB_wordhouse.png "Second round South Bank word cloud")
+![alt text](/Img_static/Neigh_Over/Round_2/SB_wordhouse.png "Second round Southbank word cloud")
 
-The above word cloud was created for the South Bank neighbourhood which abuts the Yarra River and in which the Crown Casino, a popular tourist attraction, is located. One would assume from the cloud that South Bank is:
+The above word cloud was created for the Southbank neighbourhood which abuts the Yarra River and in which the Crown Casino, a popular tourist attraction, is located. One would assume from the cloud that South Bank is:
 * Centrally located (given the high prevelance of words/phrases such as "minutes walk", "walking distance", and "short walk")
 * Close to multiple other interesting attractions such as the:
   * Central Busniess District
